@@ -6,4 +6,9 @@ class Shop_B
     {
         echo '<h1>' . __CLASS__ . '</h1>';
     }
+
+    public function test()
+    {
+        
+    }
 }
